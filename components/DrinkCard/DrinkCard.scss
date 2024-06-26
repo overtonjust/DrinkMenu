@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+US+Trad:wght@100..400&display=swap');
+
+.drinkCard {
+    width: 200px;
+    height: 200px;
+    box-shadow: .2em .2em .4em gray;
+    border-radius: 2em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    gap: 4px;
+    padding: 14px 0;
+
+    &__title{
+        font-family: "Playwrite US Trad", sans-serif, cursive;
+    }
+
+    &__img {
+        width: 80px;
+        height: 80px;
+        object-fit: cover;
+        border-radius: 50%;
+    }
+
+    &__ingredients-list{
+        margin: 0 18px;
+        list-style-type: none;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        padding: 8px;
+        gap: 6px;
+        column-gap: 10px;
+    }
+
+    &__ingredient{
+        font-family: 'Talldeco', sans-serif;
+        font-size: 12px;
+    }
+}

@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Angel's Delight",
+        "ingredients": ["Gin","Triple Sec", "Heavy Cream", "Grenadine"],
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmixthatdrink.com%2Fwp-content%2Fuploads%2F2011%2F05%2Fangels-delight-drink-600x600.jpg&f=1&nofb=1&ipt=bf517dec058696de178f90eeaf109ab76a99dc613837805db3d4a552d9932b9f&ipo=images"
+    },
+    {
+        "name": "Grasshopper",
+        "ingredients": ["Creme de Cacao", "Creme de Menthe", "Heavy Cream"],
+        "img": "https://www.thedrinkblog.com/wp-content/uploads/2015/02/tdb-grasshopper-1500x1000-6.jpg"
+    },
+    {
+        "name": "Baron Samedi",
+        "ingredients": ["Dark Rum", "Lime Juice", "Cinnamon Syrup", "Falernum"],
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.redd.it%2Fptrl7md0kpl81.jpg&f=1&nofb=1&ipt=12ae18df84a0f91c37c880c7e41154eb88d9473e40b531c15d52291905ee9c9d&ipo=images"
+    },
+    {
+        "name": "Hurricane",
+        "ingredients": ["Light Rum", "Dark Rum", "Passion Fruit Syrup", "Orange Juice", "Lime Juice"],
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fd8%2Fca%2F85%2Fd8ca858ff80afbdeb8874c7628ded14a.jpg&f=1&nofb=1&ipt=78f4089bbb3dc5a443d45a382bce5a9bc57022c2c287ea9dfd1190f606be7868&ipo=images"
+    },
+    {
+        "name": "Blue Hawaiian",
+        "ingredients": ["Vodka", "Pineapple Juice", "Lemon Juice", "Blue Curacao"],
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbullocksbuzz.com%2Fwp-content%2Fuploads%2F2019%2F04%2FBlue-Hawaiian-cocktail.jpg&f=1&nofb=1&ipt=93686e15ab712fa591760700563fb9c0a73f7881931b192ad65307c50b4798ab&ipo=images"
+    },
+    {
+        "name": "Kamikaze",
+        "ingredients": ["Citrus" ,"Vodka", "Triple Sec", "Lime Juice"],
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.fanpage.it%2Fwp-content%2Fuploads%2Fsites%2F22%2F2021%2F04%2Fkamikaze-cocktail-3-1.jpg&f=1&nofb=1&ipt=cd0e4f10de6f28535024b4c0d0f4b9ee0fd1ad559eb1a79be3581d97548a7866&ipo=images"
+    },
+    {
+        "name": "Corpse Reviver No.2",
+        "ingredients": ["Gin", "Lemon Juice", "Triple Sec", "Lillet Blanc"],
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fb1316951.smushcdn.com%2F1316951%2Fwp-content%2Fuploads%2F2020%2F05%2FCorpse-Reviver-No.2-6400.jpg%3Fsize%3D1100x734%26lossy%3D1%26strip%3D1%26webp%3D1&f=1&nofb=1&ipt=5b2017f5c2b2b4783072f0ee32794fd3201e5d2b531aea929362a1335b42507c&ipo=images"
+    },
+    {
+        "name": "King's Valley",
+        "ingredients": ["Scotch", "Triple Sec","Lime Juice", "Blue Curacao"],
+        "img" : "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fiwamoto-hiroyoshi.com%2Fwp-content%2Fuploads%2F1427.jpg&f=1&nofb=1&ipt=5b89a00a9b33f4bbeb3b8756c15567f078de8988c0e73148c23e193604db8841&ipo=images"
+    },
+    {
+        "name": "Dark N' Stormy",
+        "ingredients": ["Dark Rum", "Ginger Syrup", "Lime Juice", "Seltzer"],
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsavoredsips.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fdark-and-stormy-t2.jpg&f=1&nofb=1&ipt=48847c615ff9740cdc608d607abbad2ce1ef59630d49fd277d59dc42aaa8cabc&ipo=images"
+    },
+    {
+        "name": "Lemon Drop",
+        "ingredients": ["Citrus", "Vodka", "Triple Sec", "Lemon Juice"],
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fallshecooks.com%2Fwp-content%2Fuploads%2F2016%2F05%2FLemon-Drop-Cocktail.jpg&f=1&nofb=1&ipt=3edf423d49347c059cfc5b0847a7eedbad9fd5faf540f839688a7eaa419bbe0d&ipo=images"
+    },
+    {
+        "name": "Fluffy Cloud",
+        "ingredients": ["Vodka", "Triple Sec", "Orange Soda", "Heavy Cream"],
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FC42LApLu-Yo%2Fmaxresdefault.jpg&f=1&nofb=1&ipt=56e71da4962fa5d804c7fbbd76e65eaba605aa58865b6e51378d796189353521&ipo=images"
+    },
+    {
+        "name": "Little Bit Country",
+        "ingredients": ["Bourbon", "Lemon Juice", "Maple Syrup", "Maraschino", "Jalapeno", "Bitters"],
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.explicit.bing.net%2Fth%3Fid%3DOIP._Sori74gOmkHuQJhc8_llQHaHa%26pid%3DApi&f=1&ipt=1be0501d90d6b91b24e9132b531a22b81774fff0dbd0a69127245b1500057060&ipo=images"
+    },
+    {
+        "name": "Fuzzy Navel",
+        "ingredients": ["Peach Schnapps", "Orange Juice" ],
+        "img" : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.thedrinkkings.com%2Fwp-content%2Fuploads%2F2014%2F05%2FFuzzy-Navel-5-630-630x915.jpg&f=1&nofb=1&ipt=896238db1e57a9d10049a347e44e9b2823c7d86627b27b5ce2cafab2db3430f8&ipo=images"
+    },
+    {
+        "name": "Moscow Mule",
+        "ingredients": ["Vodka", "Lime Juice", "Ginger Syrup", "Seltzer"],
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcocktail-society.com%2Fwp-content%2Fuploads%2F2021%2F10%2FMoscow-Mule-cocktail.jpg&f=1&nofb=1&ipt=09f6b3fe8263b457de39624a182ae9a73bc36d96e5f3449326cec40014e9298d&ipo=images"
+    },
+    {
+        "name": "Gordon's Cup",
+        "ingredients": ["Gin", "Simple Syrup", "Cucumber", "Lime Juice", "Salt & Pepper"],
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthedrinknation.com%2Fuploads%2F1_How_to_Make_a_Gordons_Cup_Drink_Nationwtmk.JPG&f=1&nofb=1&ipt=903dc628d45b440781f8347404ee12ed5c177c31a416367b7742b9bffec61784&ipo=images"
+    },
+    {
+        "name": "Pain Killer",
+        "ingredients": ["Light Rum", "Pineapple Juice", "Orange Juice", "Coconut Cream"],
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.thespruceeats.com%2Fthmb%2F5LYVbPU1DR9Yf28Y6q2IGTTRfJ0%3D%2F4265x2842%2Ffilters%3Ano_upscale()%3Amax_bytes(150000)%3Astrip_icc()%2Fpainkiller-cocktail-recipe-760473-step-06-1ce7dbe91edc4215b76f64e8d17a58d6.jpg&f=1&nofb=1&ipt=0c4e09934f77fafbd4a2af731873856784bfbbfcf557236c2b6a63bd89a23302&ipo=images"
+    },
+    {
+        "name": "Gordon's Breakfast",
+        "ingredients": ["Gin", "Simple Syrup", "Cucumber", "Lime Juice", "Worchestershire", "Hot Sauce", "Salt & Pepper"],
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.redd.it%2F3b2tknu5f1y41.jpg&f=1&nofb=1&ipt=636ac1cb635946cb71da104632f0d2b7db140339c8e77362db2c03c56ce1ce33&ipo=images"
+    },
+    {
+        "name": "Surfer On Acid",
+        "ingredients": ["Jaegermeister", "Dark Rum", "Pineapple Juice", "Orgeat Syrup", "Lime Juice"],
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmybartender.com%2Fwp-content%2Fuploads%2F2022%2F01%2Fsurfer-on-acid.jpg&f=1&nofb=1&ipt=86ba091011fe056c364c876674116c2a71769102f0302a9d325f7436ec74b517&ipo=images"
+    }
+]

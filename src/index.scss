@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+US+Trad:wght@100..400&display=swap');
+/* font-family: "Playwrite US Trad", sans-serif, cursive; */
+$background-paper: #FAF8F4;
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    padding: 8px;
+    background-color: $background-paper;
+    font-size: 16px;
+}
